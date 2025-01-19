@@ -128,6 +128,9 @@ section{
         align-content: center;
         grid-template-columns: repeat(1,1fr);
     }
+    section{
+        margin: 0px 18px;
+    }
 
 
     }
