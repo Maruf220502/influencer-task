@@ -96,6 +96,13 @@ nav .second{
     .header-image{
         margin-bottom: 30px;
     }
+    .header-part{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
 
     }
     
